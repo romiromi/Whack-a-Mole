@@ -10,4 +10,4 @@ The demo video is in https://youtu.be/bTT2sdSWYMI.
 
 - Hardware: Basys 3 Artix-7 FPGA
 
-- Programming Language: verilog
+- Programming Language: Verilog
